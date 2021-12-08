@@ -1,0 +1,21 @@
+From,To,Departure Time,Distance(km),Status,Indirect Path,Route,Type,ID,Ticket
+USA,North,1:00,2261.43,Active,No,UAE,International,0,20000
+North,Brazil,2:00,9849.63,Active,No,Germany,International,1,30000
+Indonesia,North,3:00,9880.13,Active,No,No,International,2,40000
+North,Sweden,4:00,9431.19,Active,No,No,International,3,20000
+North,Quetta,5:00,914,Cancelled,No,No,Local,4,30000
+North,Peshwar,6:00,184,Expected,USA,No,Local,5,40000
+Karachi,North,7:00,1410,Cancelled,Canada,No,Local,6,50000
+Lahore,North,8:00,377,Expected,India,No,Local,7,20000
+India,North,9:00,4157.41,Active,England,Bangladesh,International,8,30000
+North,Quetta,10:00,914,Active,UAE,No,Local,9,40000
+Norway,South,11:00,3312.08,Active,Srilanka,No,International,10,50000
+South,Thialand,12:00,9124.16,Active,Afganishtan,Afganishtan,International,11,20000
+South,Finland,13:00,12661,Active,USA,Cuba,International,12,30000
+Cuba,South,14:00,3504.34,Active,Canada,No,International,13,40000
+South,Peshwar,15:00,184,Active,India,No,Local,14,50000
+South,Lahore,16:00,377,Active,England,No,Local,15,20000
+Quetta,South,17:00,914,Active,UAE,No,Local,16,30000
+South,Karachi,18:00,1410,Cancelled,Srilanka,No,Local,17,40000
+South,England,19:00,11735.51,Expected,Afganishtan,Australia,International,18,50000
+Australia,South,20:00,6778.34,Cancelled,USA,England,International,19,20000

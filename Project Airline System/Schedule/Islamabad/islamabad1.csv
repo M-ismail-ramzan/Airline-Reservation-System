@@ -1,0 +1,21 @@
+﻿Islambad,To,Departure Time,Distance(km),Flight Time(hr),Status,Indirect Path
+North,USA,1:00,2261.43,2.48,Active,No
+North,Brazil,2:00,9849.63,10.79,Active,No
+North,Indonesia,3:00,9880.13,10.83,Active,No
+North,Sweden,4:00,9431.19,10.34,Active,No
+North,Quetta,5:00,10403.53,11.4,Cancelled,No
+North,Peshwar,6:00,14403.14,15.78,Expected,USA
+North,Karachi,7:00,10147.29,11.12,Cancelled,Canada
+North,Lahore,8:00,6961.17,7.63,Expected,India
+North,No,9:00,4157.41,4.56,Active,England
+North,No,10:00,2854.48,3.13,Active,UAE
+South,Norway,11:00,3312.08,3.63,Active,Srilanka
+South,Thialand,12:00,9124.16,10,Active,Afganishtan
+South,Finland,13:00,12661,13.88,Active,USA
+South,Cuba,14:00,3504.34,3.84,Active,Canada
+South,Peshwar,15:00,1733.62,1.9,Active,India
+South,Lahore,16:00,18137.07,19.88,Active,England
+South,Quetta,17:00,18366.52,20.13,Active,UAE
+South,Karachi,18:00,4474.33,4.9,Cancelled,Srilanka
+South,Tomarrow,19:00,11735.51,12.86,Expected,Afganishtan
+South,Tomarrow,20:00,6778.34,7.43,Cancelled,USA

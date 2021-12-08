@@ -1,0 +1,63 @@
+US Canada 2261.43 2.48
+Japan France 9849.63 10.79
+South Africa UK 9880.13 10.83
+Brazil Germany 9431.19 10.34
+Indonesia Poland 10403.53 11.4
+Argentina Iran 14403.14 15.78
+Italy Mexico 10147.29 11.12
+Norway India 6961.17 7.63
+New Zealand Australia 4157.41 4.56
+Russia China 2854.48 3.13
+Turkey Spain 3312.08 3.63
+Sweden Venezuela 9124.16 10
+Chile Greece 12661 13.88
+Lithuania Algeria 3504.34 3.84
+Colombia Puerto Rico 1733.62 1.9
+Peru Philippines 18137.07 19.88
+Thailand Bolivia 18366.52 20.13
+Finland Saudi Arabia 4474.33 4.9
+Morocco Taiwan 11735.51 12.86
+Congo (Kinshasa) Latvia 6778.34 7.43
+Madagascar South Korea 10436.53 11.44
+Cuba Malaysia 17152.84 18.8
+Tanzania Pakistan 5491.81 6.02
+Belgium Ecuador 9646.1 10.57
+Kenya Portugal 6408.82 7.02
+Denmark Ethiopia 5889.8 6.45
+Nigeria Croatia 4053.48 4.44
+Egypt Romania 2187.92 2.4
+Sudan Ukraine 3950.05 4.33
+Uruguay Zambia 8636.51 9.46
+Estonia Netherlands 1430.89 1.57
+Greenland Mozambique 11568.99 12.68
+Gabon Ivory Coast 2116.74 2.32
+Marshall Islands Botswana 16049.82 17.59
+Central African Republic Congo (Brazzaville) 948.65 1.04
+Tunisia Cameroon 2962.6 3.25
+Fiji Hungary 16145.69 17.69
+Mauritania Micronesia 16261.72 17.82
+Senegal Zimbabwe 6055.87 6.64
+Austria Iceland 2779.54 3.05
+Kazakhstan Yemen 3984.19 4.37
+Bangladesh Chad 7487.25 8.21
+Guatemala Mali 9097.04 9.97
+Namibia Nepal 9056.21 9.92
+Panama Uganda 12517.09 13.72
+Vietnam Afghanistan 4633.45 5.08
+Guinea Israel 5151.71 5.65
+Northern Mariana Islands U.S. Virgin Islands 14847.66 16.27
+Bahamas Dominican Republic 1023.02 1.12
+French Polynesia Honduras 7827.89 8.58
+Jordan Laos 6679.94 7.32
+Malawi North Korea 11224.5 12.3
+Switzerland Syria 2888.06 3.17
+United Arab Emirates Angola 5489.13 6.02
+Belarus Burkina Faso 5293.32 5.8
+Costa Rica Czech Republic 9832.43 10.78
+Ghana Guam 15553.31 17.04
+Ireland Libya 3671.68 4.02
+New Caledonia Niger 17629.91 19.32
+Seychelles Azerbaijan 5049.08 5.53
+Bosnia and Herzegovina Bulgaria 644.74 0.71
+Cyprus Netherlands Antilles 10332.25 11.32
+Oman Paraguay 13328.36 14.61

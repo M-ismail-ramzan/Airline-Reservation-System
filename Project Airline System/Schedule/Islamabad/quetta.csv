@@ -1,0 +1,21 @@
+From,To,Departure Time,Distance(km),Status,Indirect Path,Route,Type
+USA,North,1:00,2261.43,Active,No,UAE,International
+North,Brazil,2:00,9849.63,Active,No,Germany,International
+Indonesia,North,3:00,9880.13,Active,No,No,International
+North,Sweden,4:00,9431.19,Active,No,No,International
+North,Quetta,5:00,914,Cancelled,No,No,Local
+North,Peshwar,6:00,184,Expected,USA,No,Local
+Karachi,North,7:00,1410,Cancelled,Canada,No,Local
+Lahore,North,8:00,377,Expected,India,No,Local
+India,North,9:00,4157.41,Active,England,Bangladesh,International
+North,Quetta,10:00,914,Active,UAE,No,Local
+Norway,South,11:00,3312.08,Active,Srilanka,No,International
+South,Thialand,12:00,9124.16,Active,Afganishtan,Afganishtan,International
+South,Finland,13:00,12661,Active,USA,Cuba,International
+Cuba,South,14:00,3504.34,Active,Canada,No,International
+South,Peshwar,15:00,184,Active,India,No,Local
+South,Lahore,16:00,377,Active,England,No,Local
+Quetta,South,17:00,914,Active,UAE,No,Local
+South,Karachi,18:00,1410,Cancelled,Srilanka,No,Local
+South,England,19:00,11735.51,Expected,Afganishtan,Australia,International
+Australia,South,20:00,6778.34,Cancelled,USA,England,International
